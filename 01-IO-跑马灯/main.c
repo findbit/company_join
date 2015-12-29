@@ -10,7 +10,7 @@
 /* If you want to use the program or the program referenced in the  */
 /* article, please specify in which data and procedures from STC    */
 /*------------------------------------------------------------------*/
-
+///////////////////////////////////////////////////////////////////
 
 #include	"config.h"
 #include	"GPIO.h"
